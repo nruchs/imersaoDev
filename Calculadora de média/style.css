@@ -1,0 +1,41 @@
+body {
+  font-family: "Roboto Mono", monospace;
+  min-height: 400px;
+  background-image: url("https://image.myanimelist.net/ui/wsU6l_ESDA_gxeboYl6FT8X28FyDArOAneGTcD5sMaSsnqXx-PBsBoizkqQoQf8PbVSsfVnGYWZTmGX9a-uGHMJThisjo3RDoJOZAiPPiChAd-TcL75tvXG1k4z90vUdPEJFTvQKzfWJmkZhmJPhWQ");
+  background-color: #313628;
+  background-size: 80vh;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.container {
+  text-align: center;
+  padding: 20px;
+  height: 100vh;
+}
+
+.page-title {
+  color: #7d98a1;
+  margin: 0 0 5px;
+}
+
+.page-subtitle {
+  color: #5e6572;
+  margin-top: 5px;
+}
+
+.page-logo {
+  width: 200px;
+}
+
+.alura-logo {
+  width: 40px;
+  position: absolute;
+  top: 10px;
+  right: 10px;
+}
+
+.final-result {
+  color: #e1ce7a;
+  margin-top: 10px;
+}
