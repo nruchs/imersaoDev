@@ -10,6 +10,7 @@ Nesta 3° Edição da Imersão Dev foram repassados conceitos de lógica da prog
 Data do evento: 13 a 24 de setembro.
 
 > Sites
+> 
 https://imersao.dev/
 
 https://www.alura.com.br/
